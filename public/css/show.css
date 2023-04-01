@@ -1,0 +1,23 @@
+body{
+    background-image: url("../../public/images/read-more.jpg");
+    width: 100%;
+    background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container {
+    background-color: rgba(0, 0, 0, 0.8); /* Black w/opacity/see-through */
+    color: white;
+    margin-top: 80px;
+    position: center;
+    padding: 30px;
+}
+.back-home{
+    color: #62b2f0;
+}
+.edit{
+    color: #2f8072;
+}
+.reading-article{
+
+}

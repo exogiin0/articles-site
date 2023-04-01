@@ -1,0 +1,14 @@
+body{
+    background-image: url("../../public/images/show.jpg");
+    width: 100%;
+    background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    background-color: rgba(0,0,0, 0.4);
+    color: white;
+    position: center;
+    padding: 40px;
+    margin-top: 100px;
+}
